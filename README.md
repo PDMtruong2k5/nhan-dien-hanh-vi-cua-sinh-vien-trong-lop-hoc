@@ -3,8 +3,8 @@
 <div align="center">
 
 <p align="center">
-  <img src="./anhimage/logodnu.webp" alt="DaiNam University Logo" width="200"/>
-    <img src="./anhimage/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
+  <img src="./anh/logodnu.webp" alt="DaiNam University Logo" width="200"/>
+    <img src="./anh/LogoAIoTLab.png" alt="AIoTLab Logo" width="170"/>
 </p>
 
 [![Made by AIoTLab](https://img.shields.io/badge/Made%20by%20AIoTLab-blue?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)
@@ -29,7 +29,7 @@
 ---
 ## 🏗️ HỆ THỐNG
 <p align="center">
-  <img src="./anhimage/cbyolov7" alt="System Architecture" width="800"/>
+  <img src="./anh/cbyolov7" alt="System Architecture" width="800"/>
 </p>
 
 ---
@@ -40,7 +40,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./anhimage/cnyolov7.avif" alt="System Architecture" width="800"/>
+  <img src="./anh/cnyolov7.avif" alt="System Architecture" width="800"/>
 </p>
 </div>
 
